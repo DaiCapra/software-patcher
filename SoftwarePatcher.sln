@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftwarePatcher", "SoftwarePatcher\SoftwarePatcher.csproj", "{9E548C0F-986C-4CA8-9195-B31EC74243CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSoftwarePatcher", "TestSoftwarePatcher\TestSoftwarePatcher.csproj", "{894A3EC3-55C2-4F54-BCAA-DCE4271B2717}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E548C0F-986C-4CA8-9195-B31EC74243CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E548C0F-986C-4CA8-9195-B31EC74243CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E548C0F-986C-4CA8-9195-B31EC74243CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E548C0F-986C-4CA8-9195-B31EC74243CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{894A3EC3-55C2-4F54-BCAA-DCE4271B2717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894A3EC3-55C2-4F54-BCAA-DCE4271B2717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894A3EC3-55C2-4F54-BCAA-DCE4271B2717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894A3EC3-55C2-4F54-BCAA-DCE4271B2717}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
